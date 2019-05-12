@@ -1,0 +1,64 @@
+{
+    "name":"Iván Mendoza PWA",
+    "short_name": "IMPWA",
+    "description": "Aplicación PWA del curso de responsive y aplicaciones web progresiva de Victor Robles",
+    "background_color": "#FFF",
+    "theme_color": "#FB314E",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-DO",
+    "icons":[
+        {
+            "src": "./img/favicon-1024.png",
+            "size": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/favicon-512.png",
+            "size": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/favicon-384.png",
+            "size": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/favicon-256.png",
+            "size": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/favicon-192.png",
+            "size": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/favicon-128.png",
+            "size": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/favicon-96.png",
+            "size": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/favicon-64.png",
+            "size": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/favicon-32.png",
+            "size": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/favicon-16.png",
+            "size": "16x16",
+            "type": "image/png"
+        }
+    ]
+}
